@@ -8,3 +8,7 @@ Thumbs.db
 # local exports
 exports/
 tmp/
+
+# Python cache
+__pycache__/
+*.pyc
